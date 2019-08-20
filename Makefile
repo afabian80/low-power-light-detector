@@ -46,7 +46,7 @@ AVRDUDE = avrdude
 ##########------------------------------------------------------##########
 
 ## The name of your project (without the .c)
-TARGET = blinkled
+TARGET = blink
 ## Or name it automatically after the enclosing directory
 #TARGET = $(lastword $(subst /, ,$(CURDIR)))
 
